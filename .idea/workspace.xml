@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="089e3578-b0fc-4019-bd9c-d506820390db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../KataTDD/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KataTDD/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KataTDD/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KataTDD/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KataTDD/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KataTDD/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KataTDD/src/logica/Conjunto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../KataTDD/tests/TestConjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KataTDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KataTDD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KataTDD/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../KataTDD/src/logica/Conjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KataTDD/tests/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../KataTDD/tests/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -41,11 +36,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestConjunto.py.executor": "Run",
+    "Python.TestConjunto.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\labf502\PycharmProjects\KataTDD" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
